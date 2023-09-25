@@ -17,10 +17,9 @@
 <p align="left">
 <a href="https://twitter.com/v0rkath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="v0rkath" height="30" width="40" /></a>
 <a href="v0rkathh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="v0rkathh" height="30" width="40" /></a>
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,qt,selenium,md,git,visualstudio,vscode)](https://skillicons.dev)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,qt,selenium,md,git,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,qt,selenium,md,git,visualstudio,vscode&perline=4" />
   </a>
