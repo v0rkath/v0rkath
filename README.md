@@ -3,9 +3,10 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=v0rkath&label=Profile%20views&color=0e75b6&style=flat" alt="v0rkath" />
 </p>
-<li align="center">
+ <p style="text-align: center;">
 - 🔭 I’m currently working on **[EtsyScraper](https://github.com/v0rkath/EtsyScraper)**
-</li>
+ </p>
+  
 - 🌱 I’m currently learning **Qt**
 
 - 🤝 I’m looking for help with **Career advice**
