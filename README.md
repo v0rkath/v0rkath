@@ -20,6 +20,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 <p align="left"> 
   [![My Skills](https://skillicons.dev/icons?i=cpp,py,qt,selenium,md,git,visualstudio,vscode&perline=4)](https://skillicons.dev)
 </p>
