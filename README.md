@@ -21,6 +21,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  [![My Skills](https://skillicons.dev/icons?i=cpp,py,qt,selenium,md,git,visualstudio,vscode&perline=4)](https://skillicons.dev)]
+  [![My Skills](https://skillicons.dev/icons?i=cpp,py,qt,selenium,md,git,visualstudio,vscode&perline=4)](https://skillicons.dev)
 </p>
 
