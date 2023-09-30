@@ -4,9 +4,9 @@
 <img src="https://komarev.com/ghpvc/?username=v0rkath&label=Profile%20views&color=0e75b6&style=flat" alt="v0rkath" />
 </p>
 
-- 🔭 I’m currently working on **[EtsyScraper](https://github.com/v0rkath/EtsyScraper)**
+- 🔭 I’m currently working on **[Socket based project](https://github.com/v0rkath/EtsyScraper)**
   
-- 🌱 I’m currently learning **Qt**
+- 🌱 I’m currently learning **Sockets & Networking**
 
 - 🤝 I’m looking for help with **Career advice**
 
