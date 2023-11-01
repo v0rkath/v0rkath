@@ -4,9 +4,9 @@
 <img src="https://komarev.com/ghpvc/?username=v0rkath&label=Profile%20views&color=0e75b6&style=flat" alt="v0rkath" />
 </p>
 
-- 🔭 I’m currently working on **[Portable Executable Parser](https://www.v0rkath.com)**
+- 🔭 I’m currently working on **[Portable Executable Parser](https://github.com/v0rkath/ParsePE)**
   
-- 🌱 I’m currently learning **Sockets & Networking**
+- 🌱 I’m currently learning **Portable Executables**
 
 - 🤝 I’m looking for help with **Career advice**
 
