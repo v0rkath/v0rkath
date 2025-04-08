@@ -10,7 +10,6 @@ I've recently been working on [FlyMil](https://github.com/v0rkath/FlyMil); a liv
 - 📖 I'm currently reading the Advanced React book by [Nadia Makarevich](https://github.com/adevnadia).
 - 💭 What I want to learn next: More details about Turborepo for optimising scripts and caching.
 - ✉️ How to reach me: `callum.elder@fastmail.com`
-- 🙂 Pronouns: he/him
 - ❔ Fun fact: I was an avionics engineer on fighter jets.
 
 ## Tools I'm using currently
